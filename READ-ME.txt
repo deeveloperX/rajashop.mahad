@@ -1,4 +1,4 @@
-  =>  Template Name    : MultiShop - Online Shop by Mahad Raja
+  =>  Template Name    : RajaShop - Online Shop by Mahad Raja
 
   =>  Template Link    : https://deeveloperx.github.io/portfolio/
 
